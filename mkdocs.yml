@@ -2,3 +2,5 @@ site_name: Hello EuroPython 2021!
 
 theme:
   name: material
+  palette:
+    primary: green
