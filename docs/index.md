@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![europython 2021 logo](assets/ep2021-logo.png)
 
 ## Commands
 
