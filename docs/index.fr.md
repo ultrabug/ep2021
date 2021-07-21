@@ -2,6 +2,14 @@
 
 ![europython 2021 logo](assets/ep2021-logo.png)
 
+!!! note
+    Ceci est un encart d'information avec un emoji sourire :smile:
+
+## Todo
+
+- [x] :clap: le talk
+- [ ] :star: [mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) sur Github
+
 ## Commandes
 
 * `mkdocs new [dir-name]` - Créer un nouveau projet.
