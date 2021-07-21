@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# EuroPython 2021 Home Page
 
 ![europython 2021 logo](assets/ep2021-logo.png)
 
@@ -13,5 +13,6 @@
 
     mkdocs.yml    # The configuration file.
     docs/
-        index.md  # The documentation homepage.
+        index.en.md  # The documentation homepage in English.
+        index.fr.md  # The documentation homepage in French.
         ...       # Other markdown pages, images and other files.
