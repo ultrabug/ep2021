@@ -1,4 +1,4 @@
-site_name: Hello EuroPython 2021!
+site_name: QGIS Learning resources
 
 theme:
   name: material
@@ -11,4 +11,4 @@ plugins:
       default_language: en
       languages:
         en: English
-        fr: Français
+        it: Italano
